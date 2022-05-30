@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>TASK331_20220511153731_EID0101_2B_01.jpeg</filename>
+	<path>C:\Users\admin\Desktop\JPEGImages\TASK331_20220511153731_EID0101_2B_01.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2688</width>
+		<height>1520</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>temperature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1498</xmin>
+			<ymin>232</ymin>
+			<xmax>1957</xmax>
+			<ymax>757</ymax>
+		</bndbox>
+	</object>
+</annotation>

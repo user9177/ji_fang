@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>TASK312_20220511095100_EID0101_ZLG_01.jpeg</filename>
+	<path>C:\Users\admin\Desktop\JPEGImages\TASK312_20220511095100_EID0101_ZLG_01.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2688</width>
+		<height>1520</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>indicator_light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>608</xmin>
+			<ymin>919</ymin>
+			<xmax>1283</xmax>
+			<ymax>1033</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>TASK351_20220512110021_EID0101_HJJCJG_01.jpeg</filename>
+	<path>C:\Users\admin\Desktop\JPEGImages\TASK351_20220512110021_EID0101_HJJCJG_01.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2688</width>
+		<height>1520</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>indicator_light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1488</xmin>
+			<ymin>1026</ymin>
+			<xmax>1738</xmax>
+			<ymax>1056</ymax>
+		</bndbox>
+	</object>
+</annotation>
